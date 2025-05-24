@@ -1,5 +1,6 @@
 # ChatT.py
 
+print ('Git Test')
 print('ChatT: Hallo, ich bin ChatT. Was ist los?')
 
 eingabe = input('Du: ')
