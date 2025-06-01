@@ -1,5 +1,5 @@
 # ChatT.py
-print("Hallo, schön dass du wieder da bist-Tom!")
+print("Willkomen zurück!")
 print('Willkomen bei ChaT!')
 print('GitHUB Änderung')
 print('ChatT: Hallo, ich bin ChatT. Was ist los?')
